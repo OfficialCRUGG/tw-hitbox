@@ -1,0 +1,30 @@
+{
+  "name": "tw-hitbox",
+  "version": "1.0.0",
+  "description": "🖱️ Hitbox utility for Tailwind CSS",
+  "keywords": [
+    "tailwind",
+    "tailwind-utility",
+    "css"
+  ],
+  "license": "MIT",
+  "type": "module",
+  "sideEffects": true,
+  "files": [
+    "index.css"
+  ],
+  "style": "index.css",
+  "exports": {
+    ".": "./index.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OfficialCRUGG/tw-hitbox"
+  },
+  "bugs": {
+    "url": "https://github.com/OfficialCRUGG/tw-hitbox/issues"
+  },
+  "author": {
+    "name": "OfficialCRUGG"
+  }
+}
